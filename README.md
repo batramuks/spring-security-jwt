@@ -2,6 +2,7 @@
 1. **Request for POST /autenticate:**
 
 POST http://localhost:8080/authenticate
+
 Request: 
 {
     "username" : "admin",
