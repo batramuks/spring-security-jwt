@@ -17,6 +17,7 @@ eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJhZG1pbiIsImlhdCI6MTc5NTQzMzkzOCwiZXhwIjoxNzk1NDM
   Using postman:
   
   AuthType: Bearer Token
+  
   Token Value: eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJhZG1pbiIsImlhdCI6MTc5NTQzMzkzOCwiZXhwIjoxNzk1NDM3NTM4fQ.Xp0O-14twa9wlrVeWrSV59fwDgXLknCRNvpiDP55Rz8
   
   GET http://localhost:8080/applications/a1f276bb-6301-46c3-89c5-d92d19283d74
