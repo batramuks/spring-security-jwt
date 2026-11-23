@@ -8,12 +8,14 @@ Request:
     "username" : "admin",
     "password" : "admin123"
 }
+
 Response:
 eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJhZG1pbiIsImlhdCI6MTc5NTQzMzkzOCwiZXhwIjoxNzk1NDM3NTM4fQ.Xp0O-14twa9wlrVeWrSV59fwDgXLknCRNvpiDP55Rz8
 
 2. **Use the above token in other APIs call as Bearer token**
 
   Using postman:
+  
   AuthType: Bearer Token
   Token Value: eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJhZG1pbiIsImlhdCI6MTc5NTQzMzkzOCwiZXhwIjoxNzk1NDM3NTM4fQ.Xp0O-14twa9wlrVeWrSV59fwDgXLknCRNvpiDP55Rz8
   
